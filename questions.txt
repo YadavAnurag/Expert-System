@@ -1,0 +1,15 @@
+Do you have headache ??
+Are you having Muscle pain ??
+Is your Breath rate is high ??
+Do you have Nausea ??
+Do you have Joint pain ??
+Are you having  Fever ??
+Do you feeling Vomiting ??
+Are you Sweating ??
+Do you have back-pain ??
+Do you have Abdominal pain ??
+Are you suffering Dehydration ??
+Do you feeling sleepiness ??
+If you are feeling thirsty most of the time ??
+Do you suffering from memory loss ??
+
